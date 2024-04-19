@@ -1,0 +1,9 @@
+{# This project is compeleted but in progress with some errors.and add some extra function.}
+
+1. first create the database using the "database.txt".
+2. goto : catalog/app/core/database.php
+   here change the 
+    (host,db_name,username,password,port)
+according to your database.
+
+3. in the xampp folder search 'php.ini' file  open and enable the 'extension=gd' .
